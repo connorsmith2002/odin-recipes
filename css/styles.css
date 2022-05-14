@@ -6,5 +6,9 @@
 
 p {
     color:crimson;
-    text-align:center;
+}
+
+img {
+    height:auto;
+    width:600px;
 }
